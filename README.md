@@ -1,2 +1,2 @@
-# Chef-and-Magical-Jars-
-for cp
+Repository for uploading competitve programming codes
+#codechef #hackerank #hackerearth
